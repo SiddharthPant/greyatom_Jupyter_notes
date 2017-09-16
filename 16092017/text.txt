@@ -1,0 +1,3 @@
+population_races = (["white"]*100000) + (["black"]*50000) +\
+    (["hispanic"]*50000) + (["asian"]*25000) +\
+    (["white"]*25000)
