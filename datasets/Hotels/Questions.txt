@@ -1,0 +1,16 @@
+Data : 
+
+    1) features.txt - A dictionary mapping from feature ID to descriptive text. 
+       For example, feature 072 corresponds to "Ethiopian" cuisine.
+
+    2) city_hotel_features.txt - A file containing restaurant data.
+       Format : restaurant name [TAB] city [TAB] restaurant features (3 digits ids separated by spaces)
+
+Problems :
+1) Given feature_x1, feature_x2, feature_x3 .... feature_xn find best 10 hotels.
+2) Find top 5 important features for given city.
+3) Generate a model to find similar hotels for given hotel x.
+4) Generate a model to find similar feature for given featute y.
+5) How to scale if number of hotels OR number of features are more.
+6) Segment/Cluster, visualize ... features or hotels based on given data to get the insights.
+
